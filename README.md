@@ -1,6 +1,10 @@
 # apk_terjemahan
 
-A new Flutter project.
+Kelompok 5 
+anggota :
+- Muhammad Fawaz Amrulloh (2006091)
+- Iswan Nurul Muttaqin (2006081)
+- Taupik Rahman (2006093)
 
 ## Getting Started
 
