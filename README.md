@@ -6,6 +6,8 @@ anggota :
 - Iswan Nurul Muttaqin (2006081)
 - Taupik Rahman (2006093)
 
+Nama Aplikasi : IndEn.apk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
